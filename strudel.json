@@ -1,4 +1,12 @@
 {
 "_base": "https://raw.githubusercontent.com/Y0ut5tand/samples/main/",
-"breaks": ["10_break.wav","11_break.wav","12_break.wav","13_break.wav","14_break.wav"]
+"growl": ["grow_zombie-growl-5.wav"],
+"drum_loop": ["drum_loop_glitch_140bpm.wav"],
+"kick": ["kick_liquid-kick-3.flac"],
+"pad": ["pad_thalamus_lab_eugene.mp3"],
+"percussion": ["percussion_pen-click-percussion-1.wav","percussion_drumbreak28012026.mp3","percussion_shiyani-loop-8-119bpm.wav","percussion_stevysound_ethnic_percussion_125bpm_135802.wav","percussion_percussionloop_001b.wav"],
+"sfx": ["sfx_nandoo1_murder.wav","sfx_biomechanical-burst-in-cathedral.wav","sfx_vocal-creature-synth.wav","sfx_syt-sci-fi-liquid-fx-one-shot-2.flac"],
+"throat_singing": ["throat_singing_throat_sing.wav","throat_singing_overtone-singing-khoomei.wav"],
+"tribal": ["tribal_jungle-abstract-experimental-vocal-atmo-soundscape-scary.mp3","tribal_cinematic-ethno-folk-cajon-vocal-tribal-jazz-slow-atmo-mood-music-film-movie-mastered.flac","tribal_hexagon-moon.mp3","tribal_monkey-noise-imitation-3.wav"],
+"vox": ["vox_undead-voice.mp3","vox_embracedeath.ogg","vox_nandoo-evil-is-a-state-of-mind.flac","vox_chinese_speech_kaimen.wav","vox_chinese-vocal-group-shanghai-biennale.mp3"]
 }
